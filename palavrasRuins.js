@@ -1,7 +1,7 @@
 export const PALAVRAS_RUINS = new Set([
-    "matteo",
-    "sophia",
-    "sonia",
+    "insuportável",
+    "babaca",
+    "caralho",
     "puta",
     "rodada",
     "vagabunda",
@@ -9,3 +9,4 @@ export const PALAVRAS_RUINS = new Set([
     "traidora",
     "maconheiro",
 ]);
+
